@@ -1,6 +1,6 @@
-# savina_homework
+# Savina Homework
 
-Class 1 homework is including three parts. 
-<li><a href="./Part1">Part1</a></li>
-<li><a href="./Part2">Part2</a></li>
-<li><a href="./Part3">part3</a></li>
+Class 1 homework: 
+<li><a href="./class1/Part1">Part1</a></li>
+<li><a href="./class1/Part2">Part2</a></li>
+<li><a href="./class1/Part3">part3</a></li>
