@@ -1,0 +1,7 @@
+Run the following command in windows cmd to enable remote debugging mode for chrome:
+1) Close all chrome windows
+
+2) "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --disable-web-security --user-data-dir="C:\temp\chrome-debug"
+
+Verify:
+http://localhost:9222/json
