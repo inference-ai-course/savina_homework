@@ -23,20 +23,16 @@ chain = (
 )
 
 # 5. Execute
-def ask_ai(quesiton):
-    result = chain.invoke({"Question":quesiton})
+def ai_response(quesiton,history=[]):
+    result = chain.invoke(quesiton)
     return result
 
 
-# Create a Gradio interface for the function
-iface = gr.Interface(
-    fn=ask_ai,
-    inputs="text",
-    outputs="text",
-    title="What is the capital city of the country?",
-    description="Enter country, and this app will tell the capital city.",
+# 6. Create a Gradio interface for the function
+iface = gr.ChatInterface(ai_response,
+    textbox=gr.Textbox(placeholder="Asking LLM ...", container=False, scale=7),
 )
 
-# Launch the Gradio app
+# 7. Launch the Gradio app
 iface.launch()
 
