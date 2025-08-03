@@ -1,0 +1,22 @@
+C:\MyWork\savina_homework\class2\PDF to Text OCR> python .\pdf_convert_to_txt.py
+./output\2507.23785v1.pdf_1.jpg
+./output\2507.23785v1.pdf_2.jpg
+./output\2507.23785v1.pdf_3.jpg
+./output\2507.23785v1.pdf_4.jpg
+./output\2507.23785v1.pdf_5.jpg
+./output\2507.23785v1.pdf_6.jpg
+./output\2507.23785v1.pdf_7.jpg
+./output\2507.23785v1.pdf_8.jpg
+./output\2507.23785v1.pdf_9.jpg
+./output\2507.23785v1.pdf_10.jpg
+./output\2507.23785v1.pdf_11.jpg
+./output\2507.23785v1.pdf_12.jpg
+./output\2507.23785v1.pdf_13.jpg
+./output\2507.23785v1.pdf_14.jpg
+./output\2507.23785v1.pdf_15.jpg
+./output\2507.23785v1.pdf_16.jpg
+./output\2507.23785v1.pdf_17.jpg
+./output\2507.23785v1.pdf_18.jpg
+./output\2507.23785v1.pdf_19.jpg
+Converted 2507.23785v1.pdf to images and saved to ./output. 19 images created.
+Total images created: 19
