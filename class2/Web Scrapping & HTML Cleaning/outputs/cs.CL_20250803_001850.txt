@@ -1,0 +1,476 @@
+aTXiv> sc CASS
+Computation and Language
+Authors and titles for recent submissions
++ Fri, 1 Aug 2025
++ Thu, 31 Jul 2025
++ Wed, 30 Jul 2025
++ Tue, 29 Jul 2025
++ Mon, 28 Jul 2025
+See today's new changes
+Total of 372 entries : 1-100 101-200 201-300 301-372
+Showing up to 100 entries per page: fewer | more | all
+Fri, 1 Aug 2025 (showing 86 of 86 entries )
+[1] arxiv:2507.23776 [pdf, html, other]
+Cascaded Information Disclosure for Generalized Evaluation of Problem Solving Capabilities
+Yunxiang Yan, Tomohiro Sawada, Kartik Goyal
+Comments: Under review
+Subjects: Computation and Language (cs.CL)
+[2] arxiv:2507.23740 [pdf, html, other]
+Rule2Text: Natural Language Explanation of Logical Rules in Knowledge Graphs
+Nasim Shirvani-Mahdavi, Devin Wingfield, Amin Ghasemi, Chengkai Li
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al); Machine Learning (cs.LG)
+[3] arxiv:2507.23661 [pdf, html, other]
+Arabic Hate Speech Identification and Masking in Social Media using Deep Learning Models and Pre-trained Models Fine-tuning
+Salam Thabet Doghmash, Motaz Saad
+‘Comments: 23 pages, 5 figures
+Subjects: Computation and Language (cs.CL)
+[4] arxiv:2507.23588 [pdf, html, other]
+DiffLoRA: Differential Low-Rank Adapters for Large Language Models
+Alexandre Misrahi, Nadezhda Chirkova, Maxime Louis, Vassilina Nikoulina
+Subjects: Computation and Language (cs.CL)
+[5] arxiv:2507.23577 [pdf, html, other]
+T-Detect: Tail-Aware Statistical Normalization for Robust Detection of Adversarial Machine-Generated Text
+Alva West, Luodan Zhang, Liuliu Zhang, Minjun Zhu, Yixuan Weng, Yue Zhang
+Subjects: Computation and Language (cs.CL)
+[6] arxiv:2507.23541 [pdf, other]
+Med-R“3: Enhancing Medical Retrieval-Augmented Reasoning of LLMs via Progressive Reinforcement Learning
+Keer Lu, Zheng Liang, Youquan Li, Jiejun Tan, Da Pan, Shusen Zhang, Guosheng Dong, Huang Leng
+Subjects: Computation and Language (cs.CL)
+[7] arxiv:2507.23486 [pdf, other]
+A Novel Evaluation Benchmark for Medical LLMs: Illuminating Safety and Effectiveness in Clinical Domains
+Shirui Wang, Zhihui Tang, Huaxia Yang, Qiunong Gong, Tiantian Gu, Hongyang Ma, Yongxin Wang, Wubin Sun, Zeliang Lian, Kehang Mao, Yinan Jiang, Zhicheng Huang, Lingyun Ma,
+Wenjie Shen, Yajie Ji, Yunhui Tan, Chunbo Wang, Yunlu Gao, Qianling Ye, Rui Lin, Mingyu Chen, Lijuan Niu, Zhihao Wang, Peng Yu, Mengran Lang, Yue Liu, Huimin Zhang, Haitao Shen,
+Long Chen, Giguang Zhao, Si-Xuan Liu, Lina Zhou, Hua Gao, Donggiang Ye, Lingmin Meng, Youtao Yu, Naixin Liang, Jianxiong Wu
+Subjects: Computation and Language (cs.CL)
+[8] arxiv:2507.23465 [pdf, html, other]
+Role-Aware Language Models for Secure and Contextualized Access Control in Organizations
+‘Saeed Almheiri, Yerulan Kongrat, Adrian Santosh, Ruslan Tasmukhanov, Josemaria Vera, Muhammad Dehan Al Kautsar, Fajri Koto
+‘Subjects: Computation and Language (cs.CL; ArifcialInteligence (cs.Al)
+[9] arxiv:2507.23407 [pdf, html, other]
+Beyond Passive Critical Thinking: Fostering Proactive Questioning to Enhance Human-Al Collaboration
+‘Ante Wang, Yujie Lin, Jingyao Liu, Sunang Wu, Hao Liu, Xinyan Xiao, Jinsong Su
+Subjects: Computation and Language (cs.CL)
+[10] arxiv:2507.23404 [pdf, html, other]
+Enhanced Arabic Text Retrieval with Attentive Relevance Scoring
+Salah Eddine Bekhouche, Azeddine Benlamoudi, Yazid Bounab, Fadi Domnaika, Abdenour Hadid
+Subjects: Computation and Language (cs.CL)
+[11] arxiv:2507.23400 [pdf, html, other]
+MRGSEM-Sum: An Unsupervised Multi-document Summarization Framework based on Multi-Relational Graphs and Structural Entropy
+Minimization
+Yongbing Zhang, Fang Nan, Shengxiang Gao, Yuxin Huang, Kaiwen Tan, Zhengtao Yu
+Subjects: Computation and Language (cs.CL); Information Retrieval (cs IR)
+[12] arxiv:2507.23399 [pdf, other]
+Beyond the Cloud: Assessing the Benefits and Drawbacks of Local LLM Deployment for Translators
+Peter Sandrini
+Subjects: Computation and Language (cs.CL); Computers and Society (cs.CY)
+[13] arxiv:2507.23386 [pdf, html, other]
+Causal2Vec: Improving Decoder-only LLMs as Versatile Embedding Models
+Alliang Lin, Zhuoyun Li, Kotaro Funakoshi
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[14] arxiv:2507.23382 [pdf, html, other]
+MPCC: A Novel Benchmark for Multimodal Planning with Complex Constraints in Multimodal Large Language Models
+Yiyan Ji, Haoran Chen, Qiguang Chen, Chengyue Wu, Libo Qin, Wanxiang Che
+Comments: Accepted to ACM Multimedia 2025
+Subjects: Computation and Language (cs.CL); Artificial inteligence (cs.Al): Computer Vision and Pattem Recognition (cs.CV)
+[15] arxiv:2507.23358 [pdf, html, other]
+Text-to-SQL Task-oriented Dialogue Ontology Construction
+Renato Vukovic, Carel van Niekerk, Michael Heck, Benjamin Ruppik, Hsien-Chin Lin, Shutong Feng, Nurul Lubis, Milica Gasic
+Subjects: Computation and Language (cs.CL), Artificial inteligence (cs.Al); Databases (cs.DB); Information Retrieval (cS 1R)
+[16] arxiv:2507.23334 [pdf, html, other]
+MUST-RAG: MUSical Text Question Answering with Retrieval Augmented Generation
+Daeyong Kwon, SeungHeon Doh, Juhan Nam
+‘Comments: 8 pages, 2 figures
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al); Information Retrieval (cs.1R); Machine Learning (cs.LG)
+[17] arxiv:2507.23319 [pdf, html, other]
+What's Taboo for You? - An Empirical Evaluation of LLMs Behavior Toward Sensitive Content
+Alfio Ferrara, Sergio Picascia, Laura Pinnavaia, Vojimir Ranitovic, Elisabetta Rocchett, Alice Tuveri
+Subjects: Computation and Language (cs.CL)
+[18] arxiv:2507.23279 [pdf, html, other]
+Unveiling Super Experts in Mixture-of-Experts Large Language Models
+Zunhai Su, Qingyuan Li, Hao Zhang, YuLei Gian, Yuchen Xie, Kehong Yuan
+Subjects: Computation and Language (cs.CL)
+[19] arxiv:2507.23248 [pdf, html, other]
+Evaluating LLMs' Multilingual Capabilities for Bengali: Benchmark Creation and Performance Analysis
+Shimanto Bhowmik, Tawsif Tashwar Dipto, Md Sazzad Islam, Sheryl Hsu, Tahsin Reasat
+‘Subjects: Computation and Language (cs.CL); Machine Leaming (cs LG)
+[20] arxiv:2507.23247 [pdf, html, other]
+P-ReMIS: Pragmatic Reasoning in Mental Health and a Social Implication
+Sneha Oram, Pushpak Bhattacharyya
+Subjects: Computation and Language (cs.CL)
+[21] arxiv:2507.23227 [pdf, html, other]
+Enabling Few-Shot Alzheimer's Disease Diagnosis on Tabular Biomarker Data with LLMs
+Sophie Keamey, Shu Yang, Zixuan Wen, Bojian Hou, Duy Duong-Tran, Tianlong Chen, Jason Moore, Marylyn Ritchie, Li Shen
+Subjects: Computation and Language (cs.CL); Machine Learning (cS.LG); Quantitative Methods (q/bio. QM)
+[22] arxiv:2507.23220 [pdf, html, other]
+Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders
+Carolina Zheng, Nicolas Beltran-Velez, Sweta Karlekar, Claudia Shi, Achille Nazaret, Asif Mallik, Amir Feder, David M. Ble!
+‘Subjects: Computation and Language (cs.CL); Machine Leaming (cs LG)
+[23] arxiv:2507.23211 [pdf, html, other]
+Failures Are the Stepping Stones to Success: Enhancing Few-Shot In-Context Learning by Leveraging Negative Samples
+Yunhao Liang, Ruixuan Ying, Takuya Taniguchi, Zhe Cui
+Subjects: Computation and Language (cs.CL)
+[24] arxiv:2507.23194 [pdf, html, other]
+Geak: Introducing Triton Kernel Al Agent & Evaluation Benchmarks
+Jianghui Wang, Vinay Joshi, Saptarshi Majumder, Xu Chao, Bin Ding, Zigiong Liu, Pratik Prabhanjan Brahma, Dong Li, Zicheng Liu, Emad Barsoum
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al); Machine Learning (cs.LG)
+[25] arxiv:2507.23167 [pdf, html, other]
+LENS: Learning Ensemble Confidence from Neural States for Multi-LLM Answer Integration
+Jizhou Guo
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al); Machine Learning (cs.LG); Muitiagent Systems (cs. MA)
+[26] arxiv:2507.23158 [pdf, html, other]
+User Feedback in Human-LLM Dialogues: A Lens to Understand Users But Noisy as a Learning Signal
+Yunan Liu, Michael J.Q. Zhang, Eunsol Choi
+‘Comments: Earlier version of this paper was presented at 2nd Workshop on Models of Human Feedback for Al Alignment (MoFA), ICML 2025
+Subjects: Computation and Language (cs.CL)
+[27] arxiv:2507.23135 [pdf, html, other]
+1SO-Bench: Benchmarking Multimodal Causal Reasoning in Visual-Language Models through Procedural Plans
+‘Ananya Sadana, Yash Kumar Lal, Jiawei Zhou
+Subjects: Computation and Language (cs.CL)
+[28] arxiv:2507.23121 [pdf, html, other]
+Uncovering the Fragility of Trustworthy LLMs through Chinese Textual Ambiguity
+Xinwei Wu, Haojie Li, Hongyu Liu, Xinyu Ji, Ruohan Li, Yule Chen, Yigeng Zhang
+‘Comments: Accepted at KDD workshop on Evaluation and Trustworthiness of Agentic and Generative Al Models (Agentic & GenAl Evaluation Workshop KDD '25)
+‘Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[29] arxiv:2507.23104 [pdf, other]
+RASL: Retrieval Augmented Schema Linking for Massive Database Text-to-SQL
+Jeffrey Eben, Aitzaz Ahmad, Stephen Lau
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al); Machine Learning (cs.LG)
+[30] arxiv:2507.23095 [pdf, other]
+SMART-Editor: A Multi-Agent Framework for Human-Like Design Editing with Structural Integrity
+Ishani Mondal, Meera Bharadwaj, Ayush Roy, Aparna Garimella, Jordan Lee Boyd-Graber
+‘Comments: Under Submission
+Subjects: Computation and Language (cs.CL; ArificialInteligence (cs.Al)
+[31] arxiv:2507.23083 [pdf, html, other]
+Context-aware Rotary Position Embedding
+Ali Veisi, Delaram Fartoot, Hamidreza Amirzaden
+‘Comments: 4 pages, 1 table
+Subjects: Computation and Language (cs.CL)
+[32] arxiv:2507.23082 [pdf, html, other]
+Exploring In-Context Learning for Frame-Semantic Parsing
+Diego Garat, Guillermo Moncecchi, Dina Wonsever
+Subjects: Computation and Language (cs.CL)
+[33] arxiv:2507.23063 [pdf, html, other]
+Math Natural Language Inference: this should be easy!
+Valeria de Paiva, Qiyue Gao, Hai Hu, Pavel Kovalev, Yikang Liu, Lawrence S. Moss, Zhineng Qian
+Comments: 9 pages plus appendices
+Subjects: Computation and Language (cs.CL)
+[34] arxiv:2507.22968 [pdf, html, other]
+C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations
+Chengqian Ma, Wei Tao, Yiwen Guo
+‘Subjects: Computation and Language (cs.CL); ArifcialInteligence (cs.Al)
+[35] arxiv:2507.22944 [pdf, other]
+Opacity as Authority: Arbitrariness and the Preclusion of Contestation
+Naomi Omeonga wa Kayembe
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al); Computers and Society (cs. CY)
+[36] arxiv:2507.22943 [pdf, other]
+Achart review process aided by natural language processing and multi-wave adaptive sampling to expedite validation of code-based
+algorithms for large database studies
+Shirley V Wang, Georg Hahn, Sushama Kattinakere Sreedhara, Mufaddal Mahesri, Haritha S. Pillai, Rajendra Aldis, Joyce Lii, Sarah K. Dutcher, Rhoda Eniafe, Jamal T. Jones, Keewan Kim,
+Jiwei He, Hana Lee, Sengwee Toh, Rishi J Desai, Jie Yang
+Subjects: Computation and Language (cs.CL); Methodology (stat ME)
+[37] arxiv:2507.22941 [pdf, html, other]
+SigBERT: Combining Narrative Medical Reports and Rough Path Signature Theory for Survival Risk Estimation in Oncology
+Paul Minchella, Loic Verlingue, Stéphane Chrétien, Rémi Vaucher, Guillaume Metzler
+Comments: 12 pages, 2 figures, accepted for ECML PKDD 2025
+‘Subjects: Computation and Language (cs.CL); Computers and Society (cs.CY); Machine Leaming (cs.L.G); Applications (stat AP)
+[38] arxiv:2507.22940 [pdf, html, other]
+Trustworthy Reasoning: Evaluating and Enhancing Factual Accuracy in LLM Intermediate Thought Processes
+Rui Jiao, Yue Zhang, Jinku Li
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[39] arxiv:2507.22939 [pdf, html, other]
+PARROT: An Open Multilingual Radiology Reports Dataset
+Bastien Le Guellec, Kokou Adambounou, Lisa C Adams, Thibault Agripnidis, Sung Soo Ahn, Radhia Ait Chalal, Tugba Akinci D Antonoli, Philippe Amouyel, Henrik Andersson, Raphael
+Bentegeac, Claudio Benzoni, Antonino Andrea Blandino, Felix Busch, Elif Can, Riccardo Cau, Armando Ugo Cavallo, Christelle Chavinot, Erwin Chiquete, Renato Cuocolo, Eugen Divjak,
+Gordana Ivanac, Barbara Dziadkowiec Macek, Armel Elogne, Salvatore Claudio Fanni, Carlos Ferrarotti, Claudia Fossataro, Federica Fossataro, Katarzyna Fulek, Michal Fulek, Pawel Gac,
+Martyna Gachowska, Ignacio Garcia Juarez, Marco Gatti, Natalia Gorelik, Alexia Maria Goulianou, Aghiles Hamroun, Nicolas Herinirina, Krzysztof Kraik, Dominik Krupka, Quentin Holay,
+Felipe Kitamura, Michail E Kiontzas, Anna Kompanowska, Rafal Kompanowski, Alexandre Lefevre, Tristan Lemke, Maximilian Lindholz, Lukas Muller, Piotr Macek, Marcus Makowski, Luigi
+Mannacio, Aymen Meddeb, Antonio Natale, Beatrice Nguema Edzang, Adriana Ojeda, Yae Won Park, Federica Piccione, Andrea Ponsiglione, Malgorzata Poreba, Rafal Poreba, Philipp
+Prucker, Jean Pierre Pruvo, Rosa Alba Pugliesi, Feno Hasina Rabemanorintsoa, Vasileios Rafailidis, Katarzyna Resler, Jan Rotkegel, Luca Saba, Ezann Siebert, Arnaldo Stanzione, Ali Fuat
+Tekin, Liz Toapanta Yanchapaxi, Matthaios Triantafyliou, Ekaterini Tsaoulia, Evangelia Vassalou, Federica Vernuccio, Johan Wasselius, Weilang Wang, Szymon Urban, Adrian Wiodarczak,
+Szymon Wlodarczak, Andrzej Wysocki, Lina Xu, Tomasz Zatonski, Shuhang Zhang, Sebastian Ziegelmayer, Gregory Kuchcinski, Keno K Bressem
+‘Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[40] arxiv:2507.22938 [pdf, html, other]
+A Graph-based Approach for Multi-Modal Question Answering from Flowcharts in Telecom Documents
+Sumit Soman, H. G. Ranjani, Sujoy Roychowdhury, Venkata Dharma Surya Narayana Sastry, Akshat Jain, Pranav Gangrade, Ayaaz Khan
+‘Comments: Accepted for publication at the KDD 2025 Workshop on Structured Knowledge for Large Language Models.
+Subjects: Computation and Language (cs.CL; Artificial Inteligence (cs.Al)
+[41] arxiv:2507.22937 [pdf, html, other]
+CoE-Ops: Collaboration of LLM-based Experts for AlOps Question-Answering
+vinkun Zhao, Yuanshuai Wang, Xingjian Zhang, Ruibo Chen, Xingchuang Liao, Junle Wang, Lei Huang, Kui Zhang, Wenjun Wu
+Subjects: Computation and Language (cs.CL); Arifcialinteligence (cs.Al)
+[42] arXiv:2507.22936 [pdf, html, other]
+Evaluating Large Language Models (LLMs) in Financial NLP: A Comparative Study on Financial Report Analysis
+Md Taina Mohsin
+Comments: 22 Pages, 6 Tables, 7 Figures
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al); Computational Engineering, Finance, and Science (cs.CE): Human-Computer interaction (cs HC); Computational Finance (q-fin. CP)
+[43] arXiv:2507.22935 [pdf, html, other]
+Trusted Knowledge Extraction for Operations and Maintenance Intelligence
+Kathleen Mealey, Jonathan A. Karr Jr., Priscila Saboia Moreira, Paul R. Brenner, Charles F. Vardeman Il
+Subjects: Computation and Language (cs.CL); ArifcialInteligence (cs.Al)
+[44] arxiv:2507.22934 [pdf, html, other]
+Deep Learning Approaches for Multimodal Intent Recognition: A Survey
+Jingwei Zhao, Yuhua Wen, Qifei Li, Minchi Hu, Yingying Zhou, Jingyao Xue, Junyang Wu, Yingming Gao, Zhenggi Wen, Jianhua Tao, Ya Li
+‘Comments: Submitted to ACM Computing Surveys
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[45] arXiv:2507.22933 [pdf, html, other]
+Augmented Vision-Language Models: A Systematic Review
+Anthony C Davis, Burhan Sadig, Tianmin Shu, Chien-Ming Huang
+‘Subjects: Computation and Language (cs.CL); ArifcialInteligence (cs.Al)
+[46] arXiv:2507.22932 [pdf, html, other]
+FinMarBa: A Market-Informed Dataset for Financial Sentiment Classification
+Baptiste Lefort, Eric Benhamou, Beatrice Guez, Jean-Jacques Ohana, Ethan Setrouk, Alban Etienne
+Comments: 8 pages
+Subjects: Computation and Language (cs.CL); General Finance (c-fn. GN)
+[47] arxiv:2507.22931 [pdf, html, other]
+Enhancing RAG Efficiency with Adaptive Context Compression
+‘Shuyu Guo, Zhaochun Ren
+‘Subjects: Computation and Language (cs.CL; ArificialInteligence (cs.Al)
+[48] arXiv:2507.22930 [pdf, html, other]
+Protecting Vulnerable Voices: Synthetic Dataset Generation for Self-Disclosure Detection
+Shalini Jangra, Supara De, Nishanth Sastry, Saeed Fadaei
+‘Comments: 15 pages, 4 Figures, Accepted in "The 17th International Conference on Advances in Social Networks Analysis and Mining -ASONAM-2025"
+Subjects: Computation and Language (cs.CL); Social and Information Networks (cs.S!)
+[49] arxiv:2507.22929 [pdf, html, other]
+EH-Benchmark Ophthalmic Hallucination Benchmark and Agent-Driven Top-Down Traceable Reasoning Workflow
+Xiaoyu Pan, Yang Bai, Ke Zou, Yang Zhou, Jun Zhou, Huazhu Fu, Yin-Chung Tham, Yong Liu
+Comments: 9 figures, 5 tables. submiv6621751
+Subjects: Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs. CV): Multiagent Systems (cs MA)
+[50] arxiv:2507.22928 [pdf, html, other]
+How does Chain of Thought Think? Mechanistic Interpretability of Chain-of-Thought Reasoning with Sparse Autoencoding
+Xi Chen, Aske Plat, Niki van Stein
+‘Subjects: Computation and Language (cs.CL; Artificial Inteligence (cs.Al)
+[51] arxiv:2507.22927 [pdf, html, other]
+PRGB Benchmark: A Robust Placeholder-Assisted Algorithm for Benchmarking Retrieval-Augmented Generation
+Znehao Tan, Yihan Jiao, Dan Yang, Lei Liu, Jie Feng, Duolin Sun, Yue Shen, Jian Wang, Peng Wei, Jinjie Gu
+Subjects: Computation and Language (cs.CL)
+[52] arxiv:2507.22926 [pdf, html, other]
+Multi-Relation Extraction in Entity Pairs using Global Context
+Nilesh, Atul Gupta, Avinash C Panday
+‘Comments: 11 pages, 9 figures
+Subjects: Computation and Language (cs.CL); Information Retrieval (cs)
+[53] arxiv:2507.22925 [pdf, html, other]
+Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents
+Haoran Sun, Shaoning Zeng
+‘Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[54] arxiv:2507.22924 [pdf, html, other]
+Using Sentiment Analysis to Investigate Peer Feedback by Native and Non-Native English Speakers
+Brittney Exline, Melanie Duffin, Brittany Harbison, Chrissa da Gomez, David Joyner
+Subjects: Computation and Language (cs.CL)
+[55] arxiv:2507.22923 [pdf, html, other]
+How and Where to Translate? The Impact of Translation Strategies in Cross-lingual LLM Prompting
+Aman Gupta, Yingying Zhuang, Zhou Yu, Ziji Zhang, Anurag Beniwal
+‘Comments: Accepted at Prompt Optimization KDD "25
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[56] arxiv:2507.22922 [pdf, other]
+Predicting stock prices with ChatGPT-annotated Reddit sentiment
+Mateusz Kmak, Kamil Chmurzyriski, Kamil Matejuk, Pawet Kotzbach, Jan Kocori
+‘Comments: Intemational Conference on Computational Science 2025
+Journal-ref: Computational Science - ICCS 2025, Lecture Notes in Computer Science, vol. 15909, Springer, 2025, pp. 307-322
+‘Subjects: Computation and Language (cs.CL; Artificial Inteligence (cs.Al), Social and Information Networks (cs.Si)
+[57] arxiv:2507.22921 [pdf, html, other]
+Fast and Accurate Contextual Knowledge Extraction Using Cascading Language Model Chains and Candidate Answers
+Lee Harris
+Subjects: Computation and Language (cs.CL); Artificial Intelligence (cs.Al); Information Retrieval (cs.1R)
+[58] arxiv:2507.22920 [pdf, other]
+Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey
+Jindong Li, Yali Fu, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang, Irwin King, Ming-Hsuan Yang
+Subjects: Computation and Language (cs.CL; Artificial Inteligence (cs.Al)
+[59] arxiv:2507.22919 [pdf, html, other]
+Anovel language model for predicting serious adverse event results in clinical trials from their prospective registrations
+Qixuan Hu, Xumou Zhang, Jinman Kim, Florence Bourgeois, Adam G. Dunn
+‘Subjects: Computation and Language (cs.CL); ArfcialInteligence (cs.Al)
+[60] arxiv:2507.22918 [pdf, html, other]
+Semantic Convergence: Investigating Shared Representations Across Scaled LLMs
+Daniel Son, Sanjana Rathore, Andrew Rufail, Adrian Simon, Daniel Zhang, Soham Dave, Cole Blondin, Kevin Zhu, Sean O'Brien
+Comments: Submitted to ACL 2026 Student Research Workshop (poster)
+‘Subjects: Computation and Language (cs.CL); Machine Leaming (cs LG)
+[61] arxiv:2507.22917 [pdf, html, other]
+Reading Between the Timelines: RAG for Answering Diachronic Questions
+Kwun Hang Lau, Ruiyuan Zhang, Weijie Shi, Xiaofang Zhou, Xiaojun Cheng
+Subjects: Computation and Language (cs.CL); Artifical Intelligence (cs.Al); Information Retrieval (cs.1R)
+[62] arxiv:2507.22915 [pdf, html, other]
+Theoretical Foundations and Mitigation of Hallucination in Large Language Models
+Esmail Gumaan
+Comments: 12 pages
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[63] arxiv:2507.22914 [pdf, html, other]
+Full Triple Matcher: Integrating all triple elements between heterogeneous Knowledge Graphs
+Victor Eiti Yamamoto, Hideaki Takeda
+Subjects: Computation and Language (cs.CL)
+[64] arxiv:2507.22913 [pdf, html, other]
+A Hybrid Framework for Subject Analysis: Integrating Embedding-Based Regression Models with Large Language Models
+Jinyu Liu, Xiaoying Song, Diana Zhang, Jason Thomale, Daging He, Lingzi Hong
+‘Comments: 13 pages, 2 figures, accepted by ASIST 2025
+Subjects: Computation and Language (cs.CL); ArifcialInteligence (cs.Al)
+[65] arxiv:2507.22912 [pdf, html, other]
+A Language Model-Driven Semi-Supervised Ensemble Framework for Illicit Market Detection Across Deep/Dark Web and Social Platforms
+Navid Yazdanjue, Morteza Rakhshaninejad, Hossein Yazdanjouei, Mohammad Sadegh Khorshidi, Mikko S. Niemela, Fang Chen, Amir H. Gandomi
+Comments: 16 pages, 5 figures, 9 tables
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al); Machine Learning (cs.LG)
+[66] arxiv:2507.22911 [pdf, html, other]
+ElectriQ: A Benchmark for Assessing the Response Capability of Large Language Models in Power Marketing
+Jinzhi Wang, Qingke Peng, Haozhou Li, Zeyuan Zeng, Qinfeng Song, Kaixuan Yang, Jiangbo Zhang, Yaoying Wang, Ruimeng Li, Biyi Zhou
+Subjects: Computation and Language (cs.CL; Artificial Inteligence (cs.Al)
+[67] arXiv:2507.22910 [pdf, html, other]
+Large Language Models in the Travel Domain: An Industrial Experience
+Sergio Di Meglio, Aniello Somma, Luigi Libero Lucio Starace, Fabio Scippacercola, Giancarlo Sperli, Sergio Di Martino
+‘Comments: Manuscript accepted tothe International Conference on Software Engineering and Knowledge Engineering (SEKE) 2025
+Subjects: Computation and Language (cs.CL); ArifcialInteligence (cs.Al)
+[68] arXiv:2507.23773 (cross-list from cs.Al) [pdf html, other]
+SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model
+Mingkai Deng, Jinyu Hou, Yilin Shen, Hongxia Jin, Graham Neubig, Zhiting Hu, Eric Xing
+Subjects: Artificial Intelligence (cs.Al); Computation and Language (cs.CL); Machine Leaming (cs.LG); Robotics (¢s.RO)
+[69] arXiv:2507.23751 (cross-list from cs.Al) [paf, html, other]
+CoT-Self-Instruct: Building high-quality synthetic prompts for reasoning and non-reasoning tasks
+Ping Yu, Jack Lanchantin, Tianlu Wang, Weizhe Yuan, Olga Golovneva, Ilia Kulikov, Sainbayar Sukhbaatar, Jason Weston, Jing Xu
+Subjects: Artificial intelligence (cs.Al): Computation and Language (cs.CL)
+[70] arxiv:2507.23726 (cross-list from cs.Al) [pdf, other]
+Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving
+Luoxin Chen, Jinming Gu, Liankai Huang, Wenhao Huang, Zhicheng Jiang, Allan Jie, Xiaoran Jin, Xing Jin, Chenggang Li, Kaijing Ma, Cheng Ren, Jiawei Shen, Wenlei Shi, Tong Sun, He
+Sun, Jianui Wang, Siran Wang, Zhihong Wang, Chenrui Wei, Shufa Wei, Yonghui Wu, Yuchen Wu, Yihang Xia, Huajian Xin, Fan Yang, Huaiyuan Ying, Hongyi Yuan, Zheng Yuan, Tianyang
+Zhan, Chi Zhang, Yue Zhang, Ge Zhang, Tianyun Zhao, Jianqiu Zhao, Yichi Zhou, Thomas Hanwen Zhu
+Subjects: Artificial intelligence (cs.Al): Computation and Language (cs.CL)
+[71] arxiv:2507.23701 (cross-list from cs.Al) [pdf, html, other]
+TextQuests: How Good are LLMs at Text-Based Video Games?
+Long Phan, Mantas Mazeika, Andy Zou, Dan Hendrycks
+Subjects: Artificial intelligence (cs.Al); Computation and Language (cs.CL)
+[72] arxiv:2507.23674 (cross-list from cs.LG) [pdf html, other]
+‘TweakLLM: A Routing Architecture for Dynamic Tailoring of Cached Responses
+Muhammad Taha Cheema, Abeer Aamir, Khawaja Gul Muhammad, Naveed Anwar Bhatti, Insan Ayyub Qazi, Zafar Ayyub Qazi
+‘Comments: 13 pages, 9 figures
+‘Subjects: Machine Learning (cs.LG); Computation and Language (cs.CL)
+[73] arxiv:2507.23607 (cross-list from cs.LG) [pdf html, other]
+Deep Learning-based Prediction of Clinical Trial Enrollment with Uncertainty Estimates
+Tien Huu Do, Antoine Masquelier, Nae Eoun Lee, Jonathan Crowther
+Subjects: Machine Learning (cs.LG); Artificial Inteligence (cs.Al); Computation and Language (cs.CL)
+[74] arxiv:2507.23511 (cross-list from eess.AS) [pdf, html, other]
+MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks
+Yadong Niu, Tianzi Wang, Heinrich Dinkel, Xingwei Sun, Jiahao Zhou, Gang Li, Jizhong Liu, Xunying Liu, Junbo Zhang, Jian Luan
+Comments: 9 main pages, 5 figures, 3 tables, and 14 appendix pages
+Subjects: Audio and Speech Processing (eess.AS); Artificial Inteligence (cs.Al): Computation and Language (cs.CL); Sound (cs.SD)
+[75] arxiv:2507.23453 (cross-list from cs.CR) [pdf, html, other]
+Counterfactual Evaluation for Blind Attack Detection in LLM-based Evaluation Systems
+Lijia Liu, Takumi Kondo, Kyohei Atarashi, Koh Takeuchi, Jiyi Li, Shigeru Saito, Hisashi Kashima
+Subjects: Cryptography and Security (cs.CR); Computation and Language (cs.CL)
+[76] arxiv:2507.23364 (cross-list from cs.IR) [pdf, html, other]
+Holistic Evaluations of Topic Models
+Thomas Compton
+‘Comments: 10 pages, 6 tables
+Subjects: Information Retrieval (cs.IR); Computation and Language (cs.CL)
+[77] arxiv:2507.23361 (cross-list from cs.SE) [paf, other]
+SWE-Exp: Experience-Driven Software Issue Resolution
+Silin Chen, Shaoxin Lin, Xiaodong Gu, Yuling Shi, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang
+‘Comments: Our code and data are available at this ntips URL
+Subjects: Software Engineering (cs.SE): Computation and Language (cs.CL): Machine Leaming (cs LG)
+[78] arXiv:2507.23348 (cross-list from cs.SE) [pdf other]
+SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution
+Han Li, Yuling Shi, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
+‘Comments: Our code and data are available at this tps URL
+Subjects: Software Engineering (cs.SE): Computation and Language (cs.CL): Machine Leaming (cs LG)
+[79] arXiv:2507.23336 (cross-list from cs.Al) [pdf html, other]
+DSBC : Data Science task Benchmarking with Context engineering
+Ram Mohan Rao Kadiyala, Siddhant Gupta, Jebish Purbey, Giulio Martini, Suman Debnath, Hamza Farooq
+Comments: 32 pages
+Subjects: Artificial Intelligence (cs.Al): Computation and Language (cs.CL); Multiagent Systems (cs MA)
+[80] arXiv:2507.23292 (cross-list from cs.LG) [pdf html, other]
+SequenceLayers: Sequence Processing and Streaming Neural Networks Made Easy
+RJ Skerry-Ryan, Julian Salazar, Soroosh Mariooryad, David Kao, Daisy Stanton, Eric Battenberg, Matt Shannon, Ron J. Weiss, Robin Scheibler, Jonas Rothfuss, Tom Bagby
+Subjects: Machine Learning (cs.LG); Computation and Language (cs.CL); Programming Languages (cs.PL); Software Engineering (cs.SE); Audio and Speech Processing (eess.AS)
+[81] arxiv:2507.23242 (crosstlst from cs.CV) [pdf, html, other]
+Generalized Reinforcement Learning for Retriever-Specific Query Rewriter with Unstructured Real-World Documents
+Sungguk Cha, DongWook kim, Taeseung Hahn, Mintae Kim, Youngsub Han, Byoung-Ki Jeon
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Computation and Language (cs.CL); Machine Learning (cs.LG)
+[82] arXiv:2507.22964 (cross-list from eess.AS) [pdf, other]
+Exploring Dynamic Parameters for Vietnamese Gender-Independent ASR
+Sotheara Leang (CADT, M-PSI), Eric Castelli (M-PSI), Dominique Vaufreydaz (M-PSI), Sethserey Sam (CADT)
+Journal-ref: The 14th Conference on Information Technology and its Applications (CITA 2025), Jul 2025, Phnom Penn, Cambodia, Cambodia
+Subjects: Audio and Speech Processing (eess.AS); Computation and Language (cs.CL); Sound (cs.SD); Signal Processing (eess.SP)
+[83] arXiv:2507.22947 (cross-list from cs.CY) [pdf, other]
+ELMES: An Automated Framework for Evaluating Large Language Models in Educational Scenarios
+Shou'ang Wei, Xinyun Wang, Shuzhen Bi, Jian Chen, Ruijia Li, Bo Jiang, Xin Lin, Min Zhang, Yu Song, BingDong Li, Aimin Zhou, Hao Hao
+Subjects: Computers and Society (cs.C¥Y); Computation and Language (cs. CL); Machine Leaming (cs.LG)
+[84] arxiv:2507.22902 (crosstlst from cs HC) [pdf, other]
+Toward the Autonomous Al Doctor: Quantitative Benchmarking of an Autonomous Agentic Al Versus Board-Certified Clinicians in a Real
+World Setting
+Hashim Hayat, Maksim Kudrautsau, Evgeniy Makarov, Viad Menichenko, Tim Tsykunou, Piotr Varaksin, Matt Pavelle, Adam Z. Oskowitz
+‘Subjects: Human-Computer Interaction (cs.HC); Artificial Inteligence (cs.Al); Computation and Language (cs.CL); Multiagent Systems (cs.MA)
+[85] arXiv:2507.22898 (cross-list from cs. HC) [pdf, html, other]
+Voice-guided Orchestrated Intelligence for Clinical Evaluation (VOICE): A Voice Al Agent System for Prehospital Stroke Assessment
+Julian Acosta, Scott Adams, Julius Kernbach, Romain Hardy, Sung Eun Kim, Luyang Luo, Xiaoman Zhang, Shreya Johri, Mohammed Baharoon, Pranav Rajpurkar
+Subjects: Human-Computer Interaction (cs.HC); Computation and Language (cs.CL)
+[86] arxiv:2507.22892 (crossulst from cs. HC) [pdf, html, other]
+Hybrid EEG--Driven Brain--Computer Interface: A Large Language Model Framework for Personalized Language Rehabilitation
+Ismail Hossain, Mridul Banik
+Subjects: Human-Computer Interaction (cs.HC); Computation and Language (cs.CL)
+Thu, 31 Jul 2025 (showing first 14 of 1 entries )
+[87] arxiv:2507.22887 [pdf, html, other]
+Where to show Demos in Your Prompt: A Positional Bias of In-Context Learning
+Kwesi Cobbina, Tianyi Zhou
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[88] arXiv:2507.22829 [pdf, html, other]
+Beyond Natural Language Plans: Structure-Aware Planning for Query-Focused Table Summarization
+Weijia Zhang, Songgaojun Deng, Evangelos Kanoulas
+Comments: 10 pages, 4 figures, and 5 tables
+Subjects: Computation and Language (cs.CL)
+[89] arxiv:2507.22811 [pdf, html, other]
+DBLPLink 2.0 -- An Entity Linker for the DBLP Scholarly Knowledge Graph
+Debayan Banerjee, Tilahun Abedissa Taffa, Ricardo Usbeck
+Subjects: Computation and Language (cs.CL)
+[90] arxiv:2507.22758 [pdf, html, other]
+MASCA: LLM based-Multi Agents System for Credit Assessment
+Gautam Jajoo, Pranjal A Chitale, Saksham Agarwal
+‘Comments: Accepted at ACL REALM Workshop. Work in Progress
+‘Subjects: Computation and Language (cs.CL); Computational Engineering, Finance, and Science (cs.CE), Machine Leaming (cs.LG)
+[91] arxiv:2507.22753 [pdf, html, other]
+Opportunities and Challenges of LLMs in Education: An NLP Perspective
+‘Sowmya Vajjala, Bashar Alhafni, Stefano Bannd, Kaushal Kumar Maurya, Ekaterina Kochmar
+Comments: Pre-print
+Subjects: Computation and Language (cs.CL)
+[92] arxiv:2507.22752 [pdf, other]
+CUS-QA: Local-Knowledge-Oriented Open-Ended Question Answering Dataset
+Jindfich Libovicky, Jindfich Helcl, Andrei Manea, Gianluca Vico
+Subjects: Computation and Language (cs.CL)
+[93] arxiv:2507.22744 [pdf, html, other]
+Reducing Hallucinations in Summarization via Reinforcement Learning with Entity Hallucination Index
+Praveenkumar Katwe, Rakesh Chandra, Balabantaray Kali, Prasad Vittala
+Comments: 8
+Subjects: Computation and Language (cs.CL); Artificial Inteligence (cs.Al)
+[94] arxiv:2507.22729 [pdf, html, other]
+Resource-Efficient Adaptation of Large Language Models for Text Embeddings via Prompt Engineering and Contrastive Fine-tuning
+Benedikt Roth, Stephan Rappensperger, Tianming Qiu, Hamza Imamovié, Julian Wérmann, Hao Shen
+Subjects: Computation and Language (cs.CL)
+[95] arxiv:2507.22720 [pdf, other]
+Investigating Hallucination in Conversations for Low Resource Languages
+‘Amit Das, Md. Najib Hasan, Souvika Sarkar, Zheng Zhang, Fatemeh Jamshidi, Tathagata Bhattacharya, Nilanjana Raychawdhury, Dongji Feng, Vinija Jain, Aman Chadha
+Subjects: Computation and Language (cs.CL)
+[96] arxiv:2507.22716 [pdf, html, other]
+From Sufficiency to Reflection: Reinforcement-Guided Thinking Quality in Retrieval-Augmented Reasoning for LLMs
+Jie He, Victor Gutierrez Basulto, Jeff Z. Pan
+Subjects: Computation and Language (cs.CL)
+[97] arxiv:2507.22676 [pdf, html, other]
+Listening to the Unspoken: Exploring 365 Aspects of Multimodal Interview Performance Assessment
+Jia Li, Yang Wang, Wenhao Qian, Zhenzhen Hu, Richang Hong, Meng Wang
+Comments: 8 pages, 4 figures, ACM MM 2025. githubthis https URL
+Subjects: Computation and Language (cs.CL); Multimedia (cs.MIM)
+[98] arxiv:2507.22623 [pdf, html, other]
+Multilingual Political Views of Large Language Models: Identification and Steering
+Danii Gurgurov, Katharina Trinley, Ivan Vykopal, Josef van Genabith, Simon Ostermann, Roberto Zamparelli
+Comments: pre-print
+Subjects: Computation and Language (cs.CL)
+[99] arxiv:2507.22608 [pdf, html, other]
+Language Arithmetics: Towards Systematic Language Neuron Identification and Manipulation
+Danii Gurgurov, Katharina Trinley, Yusser Al Ghussin, Tanja Baeumel, Josef van Genabith, Simon Ostermann
+Comments: preprint
+Subjects: Computation and Language (cs.CL)
+[100] arxiv:2507.22603 [pdf, html, other]
+BALSAM: A Platform for Benchmarking Arabic Large Language Models
+Rawan Al-Matham, Kareem Darwish, Raghad Al-Rasheed, Waad Alshammari, Muneera Alhoshan, Amal Almazrua, Asma Al Wazrah, Mais Alheraki, Firoj Alam, Presiav Nakov, Norah
+Alzahrani, Eman alBilali, Nizar Habash, Abdelrahman El-Sheikh, Muhammad Elmaliah, Haonan Li, Hamdy Mubarak, Mohamed Anwar, Zaid Alyafeai, Anmed Abdelali, Nora Altwairesh, Maram
+Hasanain, Abdulmohsen Al Thubaity, Shady Shehata, Bashar Alhafni, Injy Hamed, Go Inoue, Khalid Elmadani, Ossama Obeid, Fatima Haouari, Tamer Elsayed, Emad Alghamdi, Khalid
+Almubarak, Saied Alshahrani, Ola Aljarrah, Safa Alajlan, Aree] Alshagarawi, Maryam Alshihri, Sultana Alghurabi, Atikan Alzeghayer, Afrah Altamimi, Abdullah Alfaifi, Abdulranman AlOsaimy
+‘Subjects: Computation and Language (cs.CL); ArifcialInteligence (cs.Al)
+Total of 372 entries : 1-100 101-200 201-300 301-372
+Showing up to 100 entries per page: fewer | more | all
+About & Contact Copyright Web Accessibility Assistance
+Help @ Subscribe Privacy Policy arXiv Operational Status
+Get status notifications via §% email or #_ stack
