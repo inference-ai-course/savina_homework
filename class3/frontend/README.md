@@ -1,4 +1,4 @@
-# Voice Chat Frontend
+# Voice Search Agent Frontend
 
 This directory contains two frontend options for your voice chat application:
 
@@ -25,14 +25,14 @@ The Gradio frontend provides a Python-based interface with easy setup.
 #### Installation
 
 ```bash
-cd class3/frontend
+cd frontend
 pip install -r requirements.txt
 ```
 
 #### Usage
 
 ```bash
-python voice_chat_app.py
+gradio voice_chat_app.py
 ```
 
 - Frontend will be available at: `http://localhost:7860`
@@ -114,7 +114,6 @@ frontend/
 ├── README.md                  # This file
 └── gradio_basic.py            # Original basic implementation
 ```
-
 
 ---
 
