@@ -1,0 +1,182 @@
+# Voice Chat Frontend
+
+This directory contains two frontend options for your voice chat application:
+
+## 🎯 Features
+
+- **Voice Recording**: Record audio in WAV format using your microphone
+- **AI Integration**: Send recorded audio to your backend `/chat` API
+- **Audio Playback**: Play the AI response directly in the browser
+- **Download Response**: Download the AI voice response as a WAV file
+- **Chat History**: View recent conversation history
+- **Modern UI**: Beautiful, responsive interface with real-time status updates
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+1. **Backend Running**: Ensure your backend is running on `http://localhost:8002`
+2. **Dependencies**: Install required packages (see requirements below)
+
+### Option 1: Gradio Frontend (Recommended)
+
+The Gradio frontend provides a Python-based interface with easy setup.
+
+#### Installation
+
+```bash
+cd class3/frontend
+pip install -r requirements.txt
+```
+
+#### Usage
+
+```bash
+python voice_chat_app.py
+```
+
+- Frontend will be available at: `http://localhost:7860`
+- Backend API should be running at: `http://localhost:8002`
+
+#### Features
+
+- **Microphone Recording**: Click to start/stop recording
+- **Send to AI**: Process recorded audio through your backend
+- **Audio Playback**: Built-in audio player for responses
+- **Download**: Save response audio files locally
+- **Chat History**: View conversation context
+- **Status Updates**: Real-time feedback on operations
+
+### Option 2: HTML Frontend
+
+A pure web-based solution that runs in any modern browser.
+
+#### Usage
+
+1. **Start your backend**: Ensure it's running on `http://localhost:8002`
+2. **Open the HTML file**: Double-click `voice_chat_web.html` or open it in a browser
+3. **Grant microphone permissions**: Allow the browser to access your microphone
+
+#### Features
+
+- **Pure Web**: No Python installation required
+- **Cross-platform**: Works on any device with a modern browser
+- **Real-time Recording**: Visual feedback during recording
+- **Timer Display**: Shows recording duration
+- **Responsive Design**: Works on desktop and mobile devices
+
+## 🔧 Configuration
+
+### Backend API Settings
+
+Both frontends are configured to connect to:
+- **Base URL**: `http://localhost:8002`
+- **Chat Endpoint**: `/chat/`
+- **History Endpoint**: `/chathist/`
+
+### Customization
+
+To change the backend URL, modify:
+- **Gradio**: Edit `API_BASE_URL` in `voice_chat_app.py`
+- **HTML**: Edit the fetch URL in the JavaScript code
+
+## 📱 How to Use
+
+### Recording Voice
+
+1. **Click the microphone button** to start recording
+2. **Speak your message** clearly
+3. **Click the stop button** when finished
+4. **Click "Send to AI"** to process your recording
+
+### Receiving Response
+
+1. **Wait for processing** (status will show "Processing...")
+2. **Audio response appears** in the right panel
+3. **Play the response** using the audio controls
+4. **Download the file** if you want to save it
+
+### Managing History
+
+- **View conversations** in the chat history section
+- **Clear frontend history** using the "🗑️ Clear History" button
+- **Clear backend history** using the "🧹 Clear Backend" button (fixes duplicate issues)
+- **Recent messages** are automatically displayed
+
+## 🛠️ Troubleshooting
+
+### Common Issues
+
+#### Microphone Not Working
+- **Check permissions**: Ensure browser has microphone access
+- **HTTPS required**: Some browsers require HTTPS for microphone access
+- **Driver issues**: Update audio drivers if needed
+
+#### Backend Connection Errors
+- **Verify backend is running**: Check `http://localhost:8002`
+- **Check CORS**: Ensure backend allows frontend requests
+- **Port conflicts**: Verify no other services use port 8002
+
+#### Audio Format Issues
+- **WAV format**: Both frontends use WAV format for compatibility
+- **File size**: Large recordings may take longer to process
+- **Quality**: Higher quality recordings may improve transcription
+
+#### Chat History Issues
+- **Duplicate messages**: Use the "🧹 Clear Backend" button to reset conversation
+- **Repeated text**: This indicates a backend response formatting issue
+- **History not updating**: Check if backend is running and accessible
+
+### Error Messages
+
+- **"Error accessing microphone"**: Check browser permissions
+- **"API Error"**: Verify backend is running and accessible
+- **"No audio recorded"**: Ensure recording is completed before sending
+- **"user: user:" repeated**: Clear backend history using the clear button
+
+## 🔒 Security Notes
+
+- **Local development**: Both frontends are designed for local development
+- **Microphone access**: Users must explicitly grant microphone permissions
+- **File handling**: Audio files are processed locally and not stored permanently
+- **CORS**: Backend should be configured to allow frontend requests
+
+## 📁 File Structure
+
+```
+frontend/
+├── voice_chat_app.py          # Gradio frontend (Python)
+├── voice_chat_web.html        # HTML frontend (Web)
+├── requirements.txt            # Python dependencies
+├── README.md                  # This file
+└── gradio_basic.py            # Original basic implementation
+```
+
+## 🚀 Next Steps
+
+### Enhancements
+
+- **User Authentication**: Add login/logout functionality
+- **Voice Settings**: Adjust recording quality and format
+- **Conversation Export**: Save chat history to files
+- **Multiple Languages**: Support for different languages
+- **Voice Recognition**: Show transcribed text before sending
+
+### Deployment
+
+- **Production Backend**: Update API URLs for production
+- **HTTPS**: Enable HTTPS for production use
+- **Load Balancing**: Scale backend for multiple users
+- **Monitoring**: Add logging and analytics
+
+## 📞 Support
+
+For issues or questions:
+1. Check the troubleshooting section above
+2. Verify backend is running correctly
+3. Check browser console for JavaScript errors
+4. Ensure all dependencies are installed
+
+---
+
+**Happy Voice Chatting! 🎤✨**
