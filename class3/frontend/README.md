@@ -103,43 +103,6 @@ To change the backend URL, modify:
 - **Clear backend history** using the "🧹 Clear Backend" button (fixes duplicate issues)
 - **Recent messages** are automatically displayed
 
-## 🛠️ Troubleshooting
-
-### Common Issues
-
-#### Microphone Not Working
-- **Check permissions**: Ensure browser has microphone access
-- **HTTPS required**: Some browsers require HTTPS for microphone access
-- **Driver issues**: Update audio drivers if needed
-
-#### Backend Connection Errors
-- **Verify backend is running**: Check `http://localhost:8002`
-- **Check CORS**: Ensure backend allows frontend requests
-- **Port conflicts**: Verify no other services use port 8002
-
-#### Audio Format Issues
-- **WAV format**: Both frontends use WAV format for compatibility
-- **File size**: Large recordings may take longer to process
-- **Quality**: Higher quality recordings may improve transcription
-
-#### Chat History Issues
-- **Duplicate messages**: Use the "🧹 Clear Backend" button to reset conversation
-- **Repeated text**: This indicates a backend response formatting issue
-- **History not updating**: Check if backend is running and accessible
-
-### Error Messages
-
-- **"Error accessing microphone"**: Check browser permissions
-- **"API Error"**: Verify backend is running and accessible
-- **"No audio recorded"**: Ensure recording is completed before sending
-- **"user: user:" repeated**: Clear backend history using the clear button
-
-## 🔒 Security Notes
-
-- **Local development**: Both frontends are designed for local development
-- **Microphone access**: Users must explicitly grant microphone permissions
-- **File handling**: Audio files are processed locally and not stored permanently
-- **CORS**: Backend should be configured to allow frontend requests
 
 ## 📁 File Structure
 
@@ -152,30 +115,6 @@ frontend/
 └── gradio_basic.py            # Original basic implementation
 ```
 
-## 🚀 Next Steps
-
-### Enhancements
-
-- **User Authentication**: Add login/logout functionality
-- **Voice Settings**: Adjust recording quality and format
-- **Conversation Export**: Save chat history to files
-- **Multiple Languages**: Support for different languages
-- **Voice Recognition**: Show transcribed text before sending
-
-### Deployment
-
-- **Production Backend**: Update API URLs for production
-- **HTTPS**: Enable HTTPS for production use
-- **Load Balancing**: Scale backend for multiple users
-- **Monitoring**: Add logging and analytics
-
-## 📞 Support
-
-For issues or questions:
-1. Check the troubleshooting section above
-2. Verify backend is running correctly
-3. Check browser console for JavaScript errors
-4. Ensure all dependencies are installed
 
 ---
 
