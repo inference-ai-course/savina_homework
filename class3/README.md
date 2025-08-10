@@ -56,22 +56,28 @@ To deploy this project run
 ## Demo
 
 1. Startup server：python main.py 
-screenshots\1-StartupServer.png
+
+<img width="536" height="141" alt="1-StartupServer" src="https://github.com/user-attachments/assets/62439ffd-ebfd-4f7a-8a84-1b8b17bc8a36" />
 
 2. Access http://localhost:8002/docs
-screenshots\2-endpoint-docs.png
+
+<img width="1180" height="541" alt="2-endpoint-docs" src="https://github.com/user-attachments/assets/e5e37058-744f-4a9b-b0fa-ef3570e3e81f" />
 
 3. Tryout POST /chat and send user's voice
-screenshots\3-endpoint-chat-uploadfile.png
+
+<img width="1159" height="405" alt="3-endpoint-chat-uploadfile" src="https://github.com/user-attachments/assets/989ede5d-2bfd-4252-a9b9-9a7bfae62cf6" />
 
 4. Get the voice of agent
-screenshots\4-endpoint-chat-download-response.png
+
+<img width="1122" height="440" alt="4-endpoint-chat-download-response" src="https://github.com/user-attachments/assets/e363dabc-97e5-46a4-84a6-82074186e628" />
 
 5. Retrive the chatting history
-screenshots\5-endpoint-chathist.png
+
+<img width="1168" height="691" alt="5-endpoint-chathist" src="https://github.com/user-attachments/assets/72cdd916-d894-4af4-ab5c-c893dcdf412c" />
 
 6. Ctrl + c Stop the server
-screenshots\6-shutdown.png
+
+<img width="433" height="102" alt="6-shutdown" src="https://github.com/user-attachments/assets/4ead108d-f054-4e7a-b72b-0450fdf27491" />
 
 
 
