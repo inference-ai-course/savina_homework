@@ -1,7 +1,7 @@
 
 # Voice Search Agent
 
-It understands your voice and responds with voice.
+It understands your voice and responds with voice
 
 
 ## Features
