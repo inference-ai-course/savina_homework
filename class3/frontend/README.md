@@ -1,5 +1,8 @@
 # Voice Search Agent Frontend
 
+<img width="933" height="453" alt="UI" src="https://github.com/user-attachments/assets/16d77704-ac25-4dee-82b0-2f49e0ae8c96" />
+
+
 This directory contains two frontend options for your voice chat application:
 
 ## 🎯 Features
@@ -30,6 +33,7 @@ pip install -r requirements.txt
 ```
 
 #### Usage
+
 
 ```bash
 gradio voice_chat_app.py
