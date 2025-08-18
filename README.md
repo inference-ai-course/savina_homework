@@ -1,6 +1,9 @@
 # Savina Homework
+
 Class 4 homework: <br>
+**Note: these two homeworks are in seperate repos, not in class4 folder**<br>
 <li><a href="https://github.com/savina0202/Rag-Enabled-Resume-AI">Rag-Enabled Resume AI</a></li>
+<li><a href="https://github.com/savina0202/RAG-with-arXiv-Papers/">RAG with arXiv Papers</a></li>
 <br>
 
 Class 3 homework: <br>
