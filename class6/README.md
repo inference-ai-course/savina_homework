@@ -78,13 +78,12 @@ https://github.com/user-attachments/assets/76839271-e3c7-4cbe-9695-11f49a273e44
   
 ## Deployment
 
-To deploy this project: git clone it first then:
+To deploy this project: git clone it first, then:
 
 ```bash
   pip install -r reqirement.txt
 ```
-Create and config .env file in the root path
-Add your OPENAI_API_KEY or Hugging Face Token follow below template:
+Create and config .env file in the root path. Then, add your OPENAI_API_KEY or Hugging Face Token by following the below template:
 
 ```bash
 HF_Token=<your token>
