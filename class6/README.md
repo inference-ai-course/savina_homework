@@ -64,13 +64,16 @@
 
   
 
-  * **Enhancing the /voice-query API, have AI voice generation and the conversition history support these technical changes
+  * **Enhancing API:** Endpoint /voice-query and /chathist support these technical changes
 
 ## Demo
 
 https://github.com/user-attachments/assets/76839271-e3c7-4cbe-9695-11f49a273e44
 
-UI：
+
+**Frontend UI：**
+
+
 <img width="1494" height="614" alt="ChatBot" src="https://github.com/user-attachments/assets/c3e10890-023f-4717-99c9-e92c1b64d467" />
   
 ## Deployment
